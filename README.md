@@ -21,4 +21,12 @@ $ cat ~/.ssh/id_rsa.pub
 
 Done
 
-## 
+## Save your username and password
+
+```
+$ git config credential.helper store
+$ git push origin master
+Username for 'https://github.com': darkdragon276
+Password for 'https://darkdragon276@github.com':
+$ git pull  // for new password and user name
+```
