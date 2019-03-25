@@ -26,7 +26,7 @@ Done
 ```
 $ git config credential.helper store
 $ git push origin master
-Username for 'https://github.com': darkdragon276
-Password for 'https://darkdragon276@github.com':
+Username for 'https://github.com': <your-username  
+Password for 'https://darkdragon276@github.com': <your-password  
 $ git pull  // for new password and user name
 ```
