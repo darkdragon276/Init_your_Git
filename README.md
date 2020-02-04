@@ -75,3 +75,6 @@ function env(){
     esac
 }
 ```
+## Fix Gnome Shell can't running when update Ubuntu
++ Remove Unity from ubuntu.
++ Reboot
