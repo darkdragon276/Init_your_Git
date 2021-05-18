@@ -78,3 +78,9 @@ function env(){
 ## Fix Gnome Shell can't running when update Ubuntu
 + Remove Unity from ubuntu.
 + Reboot
+
+<div class="flex-container">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
